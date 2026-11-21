@@ -133,6 +133,12 @@ OpenAPI specification:
 http://localhost:8081/v3/api-docs
 
 Use Swagger UI to explore and test the available REST endpoints.
+## API Documentation
+
+Swagger UI provides interactive documentation
+for exploring and testing JobTrack REST APIs.
+
+![JobTrack Swagger UI](docs/images/swagger-ui.png)
 
 ### 6. Run tests
 
